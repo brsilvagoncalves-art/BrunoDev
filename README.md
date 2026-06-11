@@ -24,9 +24,7 @@ Como profissional em transição de carreira para a Tecnologia da Informação, 
 
 ### 📂 Projetos em Destaque:
 
-*   **Bot de Gestão Financeira para WhatsApp:** Um assistente automatizado que recebe registros de gastos diários e gera relatórios mensais em PDF/Planilhas usando a *Evolution API*.
 *   **Draft Overlay System:** Sistema de gerenciamento de drafts para torneios competitivos com sincronização em tempo real entre painel administrativo e overlay para o OBS Studio.
-*   **Crypto Tracker Extension:** Extensão de navegador para monitoramento em tempo real das top 10 criptomoedas e conversão de moedas.
 
 ---
 
